@@ -1,6 +1,7 @@
 # codedamn - HTML5 Massively Landing Page
 
 ![Design for the project](./assets/desktop-design-non-fs.jpg)
+test
 
 ## Hello developer!
 
@@ -14,8 +15,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your project should:
 
--   Be responsive for desktop and mobile phones
--   Have minimum functionalities and effects working
+- Be responsive for desktop and mobile phones
+- Have minimum functionalities and effects working
 
 Want some support on the challenge? [Join our discord community](https://bit.ly/codedamn-discord) and ask questions in the **#general** channel.
 
