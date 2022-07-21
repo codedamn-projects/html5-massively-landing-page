@@ -17,7 +17,7 @@ Your project should:
 - Be responsive for desktop and mobile phones
 - Have minimum functionalities and effects working
 
-Want some support on the challenge? [Join our discord community](https://bit.ly/codedamn-discord) and ask questions in the **#general** channel.
+Want some support on the challenge? [Join our discord community](https://cdm.sh/discord) and ask questions in the **#general** channel.
 
 ## Where to find everything
 
@@ -31,7 +31,7 @@ There is also a `style-guide.html` file containing the information you'll need, 
 
 ## Submitting solution
 
-Submit your solution on the platform for the rest of the community to see. Find this project [on codedamn projects page]($https://codedamn.com/projects) for tips on how to do this.
+Submit your solution on the platform for the rest of the community to see. Find this project [on codedamn projects page](https://codedamn.com/projects) for tips on how to do this.
 
 Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
 
