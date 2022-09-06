@@ -8,10 +8,10 @@ This is one of the many projects available on [codedamn](https://codedamn.com/pr
 
 ## Project checklist
 
--   [ ] Landing page should include the top hero section "This is Massively"
--   [ ] Landing page should include the forms at the bottom
--   [ ] Landing page should be responsive
--   [ ] Landing page should use correct images (supplied in /assets), icons (fontawesome) backgrounds
+- [ ] Landing page should include the top hero section "This is Massively"
+- [ ] Landing page should include the forms at the bottom
+- [ ] Landing page should be responsive
+- [ ] Landing page should use correct images (supplied in /assets), icons (fontawesome) backgrounds
 
 ## Instructions
 
@@ -21,8 +21,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your project should:
 
--   Be responsive for desktop and mobile phones
--   Have minimum functionalities and effects working
+- Be responsive for desktop and mobile phones
+- Have minimum functionalities and effects working
 
 Want some support on the challenge? [Join our discord community](https://cdm.sh/discord) and ask questions in the **#general** channel.
 
